@@ -11,9 +11,8 @@ This project details the A/B testing process conducted by Eniac to improve the c
 * [Metrics](#metrics)
 * [Hypotheses](#hypotheses)
 * [Data and Analysis](#data-and-analysis)
-* [Results](#results)
 * [Winner Determination](#winner-determination)
-* [How to Run the Analysis](#how-to-run-the-analysis)
+* [Contact](#contact)
 
 ---
 
@@ -81,32 +80,10 @@ The Data Folder contains the raw data from the experiment. The `Eniac_AB_Test_An
 
 ---
 
-## Results
-
-*(This section will be populated with the key findings from your Colab notebook after you run the analysis. For example, you would include the p-value from the chi-square test and the results of the post-hoc comparisons.)*
-
----
-
 ## Winner Determination
 
 Based on the statistical analysis of the CTR and considering the additional metrics (drop-off rate and homepage-return rate) where available, the final winner of the A/B test is determined.
 
----
-
-## How to Run the Analysis
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourGitHubUsername/Eniac_AB_Test_Analysis.git](https://github.com/YourGitHubUsername/Eniac_AB_Test_Analysis.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd Eniac_AB_Test_Analysis
-    ```
-3.  **Open the Colab notebook:**
-    * Go to [Google Colab](https://colab.research.google.com/).
-    * Click on "File" -> "Upload notebook" and select `Eniac_AB_Test_Analysis.ipynb` from your cloned repository. Alternatively, you can open it directly from GitHub by navigating to the notebook file and clicking the "Open in Colab" button.
-4.  **Run all cells in the notebook:** Follow the instructions within the notebook to execute the code and see the analysis results.
 
 ---
 
@@ -114,3 +91,11 @@ Based on the statistical analysis of the CTR and considering the additional metr
 
 * `Eniac_AB_Test_Analysis.ipynb`: The Google Colab notebook containing all the Python code for data exploration, statistical tests, and analysis.
 * `eniac_a.csv`,`eniac_b.csv`,`eniac_c.csv`,`eniac_d.csv`: The dataset containing the results of the A/B test for each version.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+* **GitHub:** [@zehando](https://github.com/zehando)
+* **LinkedIn:** [Sahand Azizi](https://www.linkedin.com/in/sahandazizi/)
+* **Email:** azizisahand@gmail.com
