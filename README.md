@@ -1,5 +1,7 @@
 # Eniac Homepage A/B Test Analysis
 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-85D6F1?style=for-the-badge&logo=scipy&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 This project details the A/B testing process conducted by Eniac to improve the click-through rate (CTR) of their homepage's primary call-to-action button. The analysis covers the experimental design, data exploration, and statistical significance testing to determine the most effective button variant.
 
 ---
